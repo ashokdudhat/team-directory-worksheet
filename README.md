@@ -13,10 +13,10 @@
 
 ## Exercise I
 
-- [ ] Create an empty html file in the `team` folder. The file should be named as such `<your_name>.html` (replace `<your_name>` with your actual name i.e. for itamar it would be `itamar.html`).
-- [ ] Add the basic html structure to the file. Add a `meta` tag the name `author` and set the content to your full name.
-- [ ] Change the title of the document in the title tag to `WebUp | <your_full_name>` (replace `<your_full_name>` with your actual name i.e. for itamar it would be `WebUp | Itamar Givon`)
-- [ ] Make sure to link `styles/main.css` at the head of your document.
+- [x] Create an empty html file in the `team` folder. The file should be named as such `<your_name>.html` (replace `<your_name>` with your actual name i.e. for itamar it would be `itamar.html`).
+- [x] Add the basic html structure to the file. Add a `meta` tag the name `author` and set the content to your full name.
+- [x] Change the title of the document in the title tag to `WebUp | <your_full_name>` (replace `<your_full_name>` with your actual name i.e. for itamar it would be `WebUp | Itamar Givon`)
+- [x] Make sure to link `styles/main.css` at the head of your document.
 
 ---
 
