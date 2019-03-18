@@ -33,9 +33,9 @@
 
 ## Exercise III
 
-- [ ] In the document you just created, add a link to the main heading, so that when it is clicked, the browser will direct the user to the main page of the site (`index.html`)
-- [ ] In `index.html`, Add a smaller version of your picture (50x50 px exactly) and your name to the list under the title "Meet the team"
-- [ ] Link the image and your name to your personal page (with two seperate links).
+- [x] In the document you just created, add a link to the main heading, so that when it is clicked, the browser will direct the user to the main page of the site (`index.html`)
+- [x] In `index.html`, Add a smaller version of your picture (50x50 px exactly) and your name to the list under the title "Meet the team"
+- [x] Link the image and your name to your personal page (with two seperate links).
 
 ---
 
