@@ -22,12 +22,12 @@
 
 ## Exercise II
 
-- [ ] Add a main heading to the page with the text "WebUp" at the top of the page.
-- [ ] Add your picture to the `img` folder. The picture should be cropped so it's width and height are exactly the same.
-- [ ] Underneath the main heading, Add your image to the page. The fallback text and hover tooltip for your image should have your full name. The image should be exactly 250 by 250 pixels, the image should have the class `profile-pic`.
-- [ ] Add a secondary heading with your name underneath your image the heading should have the class `profile-name`.
-- [ ] Below the heading, add an unordered list with three **_adjectives_** that describe you.
-- [ ] Finally, add a short paragraph or paragraphs to tell the world a little bit about yourself.
+- [x] Add a main heading to the page with the text "WebUp" at the top of the page.
+- [x] Add your picture to the `img` folder. The picture should be cropped so it's width and height are exactly the same.
+- [x] Underneath the main heading, Add your image to the page. The fallback text and hover tooltip for your image should have your full name. The image should be exactly 250 by 250 pixels, the image should have the class `profile-pic`.
+- [x] Add a secondary heading with your name underneath your image the heading should have the class `profile-name`.
+- [x] Below the heading, add an unordered list with three **_adjectives_** that describe you.
+- [x] Finally, add a short paragraph or paragraphs to tell the world a little bit about yourself.
 
 ---
 
